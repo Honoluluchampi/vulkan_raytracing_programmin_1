@@ -1,0 +1,6 @@
+[submodule "submodules/imgui"]
+	path = submodules/imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "submodules/tinygltf"]
+	path = submodules/tinygltf
+	url = git@github.com:syoyo/tinygltf.git
